@@ -1,4 +1,4 @@
-# STATS170B Project
+# Capstone Project
 
 This file serves as an overview of the contents of this repository.
 
